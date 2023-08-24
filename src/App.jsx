@@ -6,12 +6,12 @@ import snow from './assets/snow.svg'
 import sun from './assets/sun.svg'
 import thunder from './assets/thunder.svg'
 import fog from './assets/fog.svg'
-import Cloud from './assets/bgCloud.jpg'
-import Rain from './assets/bgRain.jpg'
-import Snow from './assets/bgSnow.jpg'
-import Sun from './assets/bgSun.jpg'
-import Thunder from './assets/bgThunder.jpg'
-import Fog from './assets/bgFog.jpg'
+import Cloud from './assets/cloud.jpg'
+import Rain from './assets/rain.jpg'
+import Snow from './assets/snow.jpg'
+import Sun from './assets/sun.jpg'
+import Thunder from './assets/thunder.jpg'
+import Fog from './assets/fog.jpg'
 import toDay from './utils/toDay';
 import toWeather from './utils/toWeather';
 
